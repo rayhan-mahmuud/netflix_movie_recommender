@@ -8,3 +8,5 @@ Libraries required:
 -scikit-learn
 -nltk
 -Streamlit
+
+Try it here: https://netflix-movie-rec.streamlit.app/
